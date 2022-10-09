@@ -1,6 +1,6 @@
 ### 📦 **Plant App**
 
-PlantZ is a Inspiration & Habbit Routine App for Your Plant 
+PlantZ is a Inspiration & Habbit Routine App for Your Plant.
 
 ### 🎁 **Fiture**
 - App Name

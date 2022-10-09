@@ -1,10 +1,10 @@
 ### 📦 **Plant App**
 
-PlantZ Design to Make Habbit Routine For Activity Your Plant
-Made With Flutter
+PlantZ is a Inspiration & Habbit Routine App for Your Plant 
 
 ### 🎁 **Fiture**
 - App Name
+- Clean Code & UI
 
 ### 📄 **Page Include**
 - OnBoarding Page

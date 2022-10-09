@@ -32,3 +32,6 @@ dev_dependencies:
 
 ### 📷 **Demo**
 - Reference `https://www.figma.com/community/file/1159413893638469863`
+https://user-images.githubusercontent.com/68719199/194771018-1e926c67-bc91-47a5-9254-6233cbd2f850.mp4
+
+
